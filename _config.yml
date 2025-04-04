@@ -22,7 +22,7 @@ repository               : "AlphaKo6848/jk"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/jehyung.jpg"
+  avatar           : "/assets/jehyung.png"
   name             : "Jehyung Ko"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at UIUC Mechanical Science and Engineering"
