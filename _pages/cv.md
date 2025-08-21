@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Science & Engineering, University of Illinois Urbana-Champaign, (2018 - 2025) (expected)
-#* M.S. in Jekyll, GitHub University, 2014
+### * M.S. in Jekyll, GitHub University, 2014
 * B.S. in Mechanical Engineering and Mathematical Sciences, Seoul National University, (2010 - 2018)
 
 Work experience
