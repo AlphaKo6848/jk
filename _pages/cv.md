@@ -15,31 +15,23 @@ Education
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 * B.S. in Mechanical Engineering and Mathematical Sciences, Seoul National University, (2010 - 2018)
 
-Work experience
+Teaching experience (TA)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024, Fall 2023, Fall 2022, Fall 2021: TAM 210/211 Statics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024, Spring 2023, Spring 2021: TAM 251 Introductory Solid Mechanics
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: TAM 542 Mathematical Method II
+
+* Fall 2020: TAM 541 Mathematical Method I
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C
+* Mathematica
+* Matlab
 
 Publications
 ======
