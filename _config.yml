@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Jehyung Ko"
 description              : &description "PhD Candidate at UIUC Mechanical Science and Engineering"
 url                      : "https://alphako6848.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/jk/"
+baseurl                  : "/jk"
 repository               : "AlphaKo6848/jk/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "AlphaKo6848/jk/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jehyung_profile.png"
+  avatar           : "jehyung_profile.jpg"
   name             : "Jehyung Ko"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at UIUC Mechanical Science and Engineering"
