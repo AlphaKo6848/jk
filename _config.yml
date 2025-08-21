@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jehyung Ko/under construction"
+title                    : "Jehyung Ko"
 title_separator          : "-"
 name                     : &name "Jehyung Ko"
 description              : &description "PhD Candidate at UIUC Mechanical Science and Engineering"
